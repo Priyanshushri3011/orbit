@@ -4,20 +4,28 @@ import "./VideoGallery.css";
 function VideoGallery() {
   const videos = [
     {
-      title: "Introduction to Physics",
-      url: "https://www.youtube.com/embed/ysz5S6PUM-U",
+      title: "A special talk to class 12th Students",
+      url: "https://www.youtube.com/embed/yYa_nr1nH5M",
     },
     {
-      title: "Class 11 Biology Basics",
-      url: "https://www.youtube.com/embed/fLexgOxsZu0",
+      title: "Our Video Content Plan – Your Thoughts Matter!",
+      url: "https://www.youtube.com/embed/QVVTBADO1pw",
     },
     {
-      title: "IIT-JEE Maths Tricks",
-      url: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      title: "Orbit Classes Patna : By - Adarsh Sir",
+      url: "https://www.youtube.com/embed/qbc_dpmW7lk",
     },
     {
-      title: "NEET Preparation Strategy",
-      url: "https://www.youtube.com/embed/3fumBcKC6RE",
+      title: "Coulomb’s Law Explained | Class 12 Physics | Adarsh Sir | ",
+      url: "https://www.youtube.com/embed/MGSQaTm1-PI",
+    },
+    {
+      title: "📚 Quantisation of Charge – Most Expected Questions with Solutions! ",
+      url: "https://www.youtube.com/embed/Iri5_CnMNE4",
+    },
+    {
+      title: "Grouping of Resistors | Series &amp; Parallel | Class 12 Physics | Adarsh Sir | ",
+      url: "https://www.youtube.com/embed/qNZydvysFjk",
     },
   ];
 

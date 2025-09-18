@@ -8,9 +8,9 @@ function WelcomeSection() {
     <>
           <div className="welcome-section">
       <div className="welcome-text">
-        <h1>Welcome to Our eLearning Platform</h1>
+        <h1>Welcome to Orbit Classes</h1>
         <p>
-          Unlock your potential with expert-led courses, interactive lessons, and flexible learning. Whether you're a student, professional, or lifelong learner — we’ve got something for you!
+          Empower your future with expert guidance, focused study plans, and result-driven learning. Whether you’re preparing for Class 11th, 12th, NEET, or JEE — we’re here to help you achieve your dreams!
         </p>
         <button className="start-button">Get Started</button>
       </div>
