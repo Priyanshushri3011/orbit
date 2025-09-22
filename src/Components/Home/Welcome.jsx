@@ -2,6 +2,8 @@ import AboutContactSection from "./AboutContactSection";
 import CoursesSection from "./Courses";
 import VideoGallery from "./VideoGallery";
 import "./Welcome.css";
+import welcomeimg from "../../assets/welcomeimg.png"
+
 
 function WelcomeSection() {
   return (
@@ -15,7 +17,7 @@ function WelcomeSection() {
         <button className="start-button">Get Started</button>
       </div>
       <div className="welcome-image">
-        <img src="https://cdn.prod.website-files.com/604a97c70aee09eed25ce991/61a52bde0488622b41d5d02d_zOjOLQY5QTLmnCOF1syHEH6ypxxnYHiA1632836325.jpg" alt="Welcome" />
+        <img src={welcomeimg} alt="Welcome" />
       </div>
     </div>
     <CoursesSection/>
